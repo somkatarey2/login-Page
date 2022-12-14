@@ -9,5 +9,20 @@
   },
   "scripts": {
     "start": "nodemon app.js"
-  }
+  },
+  "name": "login-page",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somkatarey2/login-Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somkatarey2/login-Page/issues"
+  },
+  "homepage": "https://github.com/somkatarey2/login-Page#readme",
+  "description": ""
 }
